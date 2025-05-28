@@ -1,0 +1,115 @@
+-------------------------------------------------------------------
+TESTER FOR MINITALK
+-------------------------------------------------------------------
+
+
+112 Char
+"Hello, how are you doing today? Ready for the day? I think it is a beautiful day to walk and visit London."
+
+500 CHar
+"Once upon a time in a faraway land, there was a tiny village nestled between the mountains. The villagers were known for their kindness and hospitality. Every evening, children would gather around the old oak tree in the center of the village to hear stories from the wise elder, who spoke of dragons, enchanted forests, and brave heroes. Life was peaceful and serene. But one day, a mysterious traveler arrived, carrying a lantern that glowed with an otherworldly light. His arrival would change everything."
+
+1000 Chars
+"On  the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. 
+In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. 
+The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains."
+
+5000 chars
+"Once upon a time in a faraway land, there was a tiny village nestled between the mountains. The villagers were known for their kindness and hospitality. Every evening, children would gather around the old oak tree in the center of the village to hear stories from the wise elder, who spoke of dragons, enchanted forests, and brave heroes. Life was peaceful and serene.
+
+But one day, a mysterious traveler arrived, carrying a lantern that glowed with an otherworldly light. His arrival would change everything. The traveler, cloaked in robes of midnight blue, had a presence that commanded attention. The villagers, though curious, were cautious. The elder, with his deep-set eyes and wisdom etched in every wrinkle, welcomed the traveler.
+
+--Who are you, and what brings you to our humble village?-- asked the elder.
+
+The traveler smiled, his eyes twinkling like stars. --I am Orion, a wanderer of worlds, a seeker of truths. I come bearing stories and knowledge, gifts for those who seek to learn.--
+
+The villagers, intrigued by his words, gathered around. Orion began to tell tales of distant lands, of cities that floated in the sky, of creatures that could shape-shift, and of magic that flowed like rivers. His stories were mesmerizing, filled with wonder and mystery.
+
+As the days turned into weeks, Orion became a beloved figure in the village. He shared his wisdom generously, teaching the villagers about the stars, about herbs and their healing properties, and about the importance of harmony with nature. The village flourished, and the bond between Orion and the villagers grew stronger.
+
+However, not all were pleased with Orion's presence. In the nearby kingdom, the jealous and power-hungry King Malgor heard of the traveler and his influence. Fearing that Orion's knowledge and power might challenge his own authority, Malgor devised a plan to capture and imprison him.
+
+One stormy night, Malgor's soldiers, clad in dark armor, descended upon the village. The peaceful villagers, unprepared for such an attack, were quickly overwhelmed. Orion, realizing the danger, used his magic to protect the villagers, creating a barrier of light that shielded them from harm. But in doing so, he exhausted his powers.
+
+The soldiers managed to capture Orion and took him to the king's fortress. The villagers, devastated by the loss of their friend and mentor, vowed to rescue him. Led by the brave young hunter, Aric, and the wise elder, they devised a plan to infiltrate the fortress.
+
+Meanwhile, in his cell, Orion used his remaining strength to communicate with the creatures of the forest. They became his allies, gathering information and relaying messages to the villagers. With their help, Aric and his companions navigated the treacherous paths to the fortress.
+
+The night of the rescue mission was filled with tension. The villagers, disguised as travelers and merchants, approached the fortress gates. Aric, using his skills as a hunter, silently took down the guards. They moved swiftly and quietly, guided by the forest creatures.
+
+Inside the fortress, they found Orion, weak but determined. The reunion was brief, for they knew they had to escape quickly. Using a hidden passageway known only to the elder, they made their way out of the fortress. Just as they were about to reach the safety of the forest, King Malgor and his soldiers confronted them.
+
+A fierce battle ensued. The villagers fought valiantly, using their knowledge and skills to outsmart the soldiers. Orion, drawing upon the last of his magic, created a powerful illusion that confused the enemy, allowing the villagers to gain the upper hand.
+
+In the end, it was Aric who faced King Malgor. The young hunter, fueled by the desire to protect his home and friends, fought with unmatched courage. The battle was intense, but Aric's determination and skill prevailed. King Malgor, defeated and humiliated, fled the battlefield.
+
+With the king's retreat, the remaining soldiers surrendered. The villagers, victorious and united, returned to their village with Orion. The bond between them was stronger than ever, forged in the fires of adversity.
+
+Orion, though weakened, was grateful for the villagers' bravery and loyalty. He promised to stay and continue teaching them, helping the village to grow and thrive. Under his guidance, the village became a beacon of knowledge and harmony, attracting travelers and scholars from far and wide.
+
+Years passed, and the village flourished. The children who once listened to stories under the old oak tree grew up to become wise and skilled leaders. They passed down the tales of Orion and the brave rescue, ensuring that the legacy of courage, wisdom, and unity would never be forgotten.
+
+And so, the tiny village nestled between the mountains became a place of legend, where the light of knowledge shone brightly, and the spirit of adventure lived on. The villagers, forever grateful for the gifts Orion had brought, continued to honor his memory, knowing that their lives had been forever changed by the arrival of the mysterious traveler with the glowing lantern.
+
+As the seasons changed and the years rolled on, new generations of villagers gathered around the old oak tree, where the stories of bravery and magic were told and retold. The spirit of Orion lived on in their hearts, a reminder that even in the face of darkness, the light of knowledge and unity could guide them through.
+
+The village thrived, and its people prospered, always remembering that the bonds of friendship and the pursuit of wisdom were the greatest treasures of all. And somewhere, in the vast expanse of the universe, Orion continued his journey, a wanderer of worlds, a seeker of truths, forever leaving a trail of light and inspiration in his wake."
+
+
+-------------------------------------------------------------------
+TESTER FOR MINITALK BONUS
+-------------------------------------------------------------------
+
+Unicode
+"α, β, γ, Δ, 𝒜, 𝒷, 𝒸, 𝒹, 你, 好, 🌟, 🐉, 🗺️, こんにちは"
+
+112 Char
+"Hello, how are you doing today? Ready for the day? I think it is a beautiful day to walk and visit London. 😊 😄"
+
+500 CHar
+"Once upon a time in a faraway land, there was a tiny village nestled between the mountains 🌄. The villagers were known for their kindness and hospitality. Every evening, children would gather around the old oak tree 🌳 in the center of the village to hear stories from the wise elder, who spoke of dragons 🐉, enchanted forests, and brave heroes. Life was peaceful and serene. But one day, a mysterious traveler arrived, carrying a lantern that glowed with an otherworldly light ✨. His arrival would change everything."
+
+1000 Chars
+"On  the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains."
+
+5000 chars
+"Once upon a time in a faraway land, there was a tiny village nestled between the mountains 🌄. The villagers were known for their kindness and hospitality. Every evening, children would gather around the old oak tree 🌳 in the center of the village to hear stories from the wise elder, who spoke of dragons 🐉, enchanted forests, and brave heroes. Life was peaceful and serene.
+
+But one day, a mysterious traveler arrived, carrying a lantern that glowed with an otherworldly light ✨. His arrival would change everything. The traveler, cloaked in robes of midnight blue, had a presence that commanded attention. The villagers, though curious, were cautious. The elder, with his deep-set eyes and wisdom etched in every wrinkle, welcomed the traveler.
+
+--Who are you, and what brings you to our humble village?-- asked the elder.
+
+The traveler smiled, his eyes twinkling like stars. --I am Orion, a wanderer of worlds, a seeker of truths. I come bearing stories and knowledge, gifts for those who seek to learn.--
+
+The villagers, intrigued by his words, gathered around. Orion began to tell tales of distant lands, of cities that floated in the sky, of creatures that could shape-shift, and of magic that flowed like rivers. His stories were mesmerizing, filled with wonder and mystery.
+
+As the days turned into weeks, Orion became a beloved figure in the village. He shared his wisdom generously, teaching the villagers about the stars ✨, about herbs and their healing properties 🌿, and about the importance of harmony with nature. The village flourished, and the bond between Orion and the villagers grew stronger.
+
+However, not all were pleased with Orion's presence. In the nearby kingdom, the jealous and power-hungry King Malgor heard of the traveler and his influence. Fearing that Orion's knowledge and power might challenge his own authority, Malgor devised a plan to capture and imprison him.
+
+One stormy night, Malgor's soldiers, clad in dark armor, descended upon the village. The peaceful villagers, unprepared for such an attack, were quickly overwhelmed. Orion, realizing the danger, used his magic to protect the villagers, creating a barrier of light that shielded them from harm. But in doing so, he exhausted his powers.
+
+The soldiers managed to capture Orion and took him to the king's fortress. The villagers, devastated by the loss of their friend and mentor, vowed to rescue him. Led by the brave young hunter, Aric, and the wise elder, they devised a plan to infiltrate the fortress.
+
+Meanwhile, in his cell, Orion used his remaining strength to communicate with the creatures of the forest 🐺🦉. They became his allies, gathering information and relaying messages to the villagers. With their help, Aric and his companions navigated the treacherous paths to the fortress.
+
+The night of the rescue mission was filled with tension. The villagers, disguised as travelers and merchants, approached the fortress gates. Aric, using his skills as a hunter, silently took down the guards. They moved swiftly and quietly, guided by the forest creatures.
+
+Inside the fortress, they found Orion, weak but determined. The reunion was brief, for they knew they had to escape quickly. Using a hidden passageway known only to the elder, they made their way out of the fortress. Just as they were about to reach the safety of the forest, King Malgor and his soldiers confronted them.
+
+A fierce battle ensued. The villagers fought valiantly, using their knowledge and skills to outsmart the soldiers. Orion, drawing upon the last of his magic, created a powerful illusion that confused the enemy, allowing the villagers to gain the upper hand.
+
+In the end, it was Aric who faced King Malgor. The young hunter, fueled by the desire to protect his home and friends, fought with unmatched courage. The battle was intense, but Aric's determination and skill prevailed. King Malgor, defeated and humiliated, fled the battlefield.
+
+With the king's retreat, the remaining soldiers surrendered. The villagers, victorious and united, returned to their village with Orion. The bond between them was stronger than ever, forged in the fires of adversity.
+
+Orion, though weakened, was grateful for the villagers' bravery and loyalty. He promised to stay and continue teaching them, helping the village to grow and thrive. Under his guidance, the village became a beacon of knowledge and harmony, attracting travelers and scholars from far and wide.
+
+Years passed, and the village flourished. The children who once listened to stories under the old oak tree grew up to become wise and skilled leaders. They passed down the tales of Orion and the brave rescue, ensuring that the legacy of courage, wisdom, and unity would never be forgotten.
+
+And so, the tiny village nestled between the mountains became a place of legend, where the light of knowledge shone brightly, and the spirit of adventure lived on. The villagers, forever grateful for the gifts Orion had brought, continued to honor his memory, knowing that their lives had been forever changed by the arrival of the mysterious traveler with the glowing lantern ✨.
+
+As the seasons changed and the years rolled on, new generations of villagers gathered around the old oak tree 🌳, where the stories of bravery and magic were told and retold. The spirit of Orion lived on in their hearts, a reminder that even in the face of darkness, the light of knowledge and unity could guide them through.
+
+The village thrived, and its people prospered, always remembering that the bonds of friendship and the pursuit of wisdom were the greatest treasures of all. And somewhere, in the vast expanse of the universe, Orion continued his journey, a wanderer of worlds, a seeker of truths, forever leaving a trail of light and inspiration in his wake."
+
